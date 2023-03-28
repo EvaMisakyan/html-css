@@ -1,0 +1,294 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
+
+.div2 img {
+    width: 300px;
+    height: 200px;
+    padding: 100px;
+}
+
+.div2 {
+    width: 600px;
+    color: white;
+}
+
+.sec1 {
+    height: 650px;
+    padding: 50px;
+    background-color: #f2f2f2;
+}
+
+.di {
+    display: flex;
+    justify-content: center;
+}
+
+.div5 {
+    width: 450px;
+    color: #111;
+    margin-left: 40px;
+}
+
+.div5 h5 {
+    font-family: sans-serif;
+    color: rgb(70, 67, 67);
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.div5 p {
+    margin-top: 60px;
+    color: rgb(70, 67, 67);
+    font-size: 20px;
+}
+
+.sec2 {
+    background-image: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.div6 {
+    display: flex;
+    justify-content: end;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+
+.ice {
+    width: 180px;
+    height: 180px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #f2f2f2;
+    margin-left: 40px;
+}
+
+.ice .p {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.ice .p1 {
+    text-align: center;
+}
+
+.sec3 {
+    height: 800px;
+    padding: 100px;
+}
+
+.sec3 .div7 {
+    display: flex;
+    justify-content: center;
+}
+
+.di3 img {
+    background-position: 50% 50%;
+    width: 400px;
+    height: 390px;
+}
+
+.his {
+    width: 400px;
+    height: 390px;
+    padding: 4px;
+}
+
+.his .p2 {
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    color: #1e1c1c;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.his p {
+    padding-top: 20px;
+}
+
+.his a {
+    color: #111;
+}
+
+.di4 img {
+    background-position: 50% 50%;
+    width: 400px;
+    height: 390px;
+}
+
+.di5 img {
+    background-position: 50% 50%;
+    width: 400px;
+    height: 390px;
+}
+
+.sec4 {
+    height: 500px;
+    color: #111111;
+    background-color: #f2f2f2;
+}
+
+.div8 {
+    justify-content: center;
+    display: flex;
+    padding: 50px;
+}
+
+.di6 {
+    width: 490px;
+    padding-top: 5%;
+}
+
+.di6 h1 {
+    font-size: 40px;
+    text-align: start;
+}
+
+.di6 p {
+    text-align: start;
+}
+
+.di7 {
+    width: 490px;
+}
+
+.di7 img {
+    width: 100%;
+    height: 450px;
+    background-position: 50% 50%;
+}
+
+.sec5 {
+    height: 530px;
+    color: #111111;
+    background-color: #f2f2f2;
+}
+
+.div9 {
+    justify-content: center;
+    display: flex;
+    padding: 50px;
+}
+
+.di8 img {
+    width: 490px;
+    height: 450px;
+    background-position: 50% 50%;
+}
+
+.di9 {
+    width: 400px;
+    height: 450px;
+    padding-right: 100px;
+    margin: 40px;
+}
+
+.di9 p {
+    font-family: sans-serif;
+}
+
+.di9 h1 {
+    font-size: 40px;
+}
+
+.sec6 {
+    height: 960px;
+}
+
+.di10 {
+    padding-bottom: 50px;
+}
+
+.di10 h1 {
+    font-size: 50px;
+}
+
+.di12 {
+    display: flex;
+    justify-content: center;
+}
+
+.di11 img {
+    width: 270px;
+    height: 300px;
+    background-position: 50% 50%;
+    filter: brightness(80%);
+    transition: .5s all;
+}
+
+.di11 img:hover {
+    transform: scale(1.2);
+    filter: brightness(100%);
+}
+
+.di11 img:hover {
+    background-color: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+}
+
+.di13 a {
+    color: #000;
+    text-align: center;
+    font-size: 14px;
+    position: relative;
+    top: 20px;
+}
+
+.sec7 {
+    height: 600px;
+}
+
+.div11 {
+    display: flex;
+}
+
+.div11 img {
+    height: 550px;
+    width: 710px;
+}
+
+.sec8 {
+    height: 190px;
+}
+
+.div12 {
+    width: 900px;
+    font-family: sans-serif;
+}
+
+.div13 {
+    display: flex;
+    justify-content: center;
+}
+
+.div13 p {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #333333;
+    height: 200px;
+}
+
+.div14 p {
+    padding-top: 100px;
+}
+
+.div14 a {
+    color: rgb(67, 128, 128);
+    font-size: 10px;
+}
